@@ -1,10 +1,5 @@
-Django==2.2.3
-# django-multi-email-field==0.5.1
-# django-celery==3.3.1
+Django==2.2.8
 celery==3.1.18
 redis==2.10.3
 anyjson==0.3.3
 requests2==2.16.0
-
-
-# git+https://github.com/vBlackOut/django-celery.git
