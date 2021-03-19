@@ -1,4 +1,4 @@
-Django==2.2.10
+Django==2.2.18
 celery==3.1.18
 redis==2.10.3
 anyjson==0.3.3
